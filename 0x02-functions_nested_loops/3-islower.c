@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _islowerr - the funtion to compare
+ * _islower - the funtion to compare
  * @c: contains parameter to be compared
  * Return: 1 if lowercase and 0 if otherwise
  */
